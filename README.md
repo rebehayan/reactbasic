@@ -1,8 +1,11 @@
-# React + Vite
+# Rebehayan React Basic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. 코드를 복사합니다.
 
-Currently, two official plugins are available:
+```bash
+npx degit rebehayan/reactbasic .
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 2. VSCode를 실행시킨 후 원하는 프로젝트 폴더를 생성합니다.
+
+## 3. 터미널에 코드를 붙여 넣기 합니다.
